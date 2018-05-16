@@ -2,194 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f76e0036-639b-41ec-9098-8ed5918fa59b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.github/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.github/stale.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot-layouts.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_data/authors.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_data/navigation.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/404.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/archive-layout-with-content.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/category-archive.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/collection-archive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/edge-case.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/lorem-ipsum.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/markup.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/page-a.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/page-archive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/page-b.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/portfolio-archive.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/post-archive-feature-rows.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/recipes-archive.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/sample-page.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/search.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/sitemap.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/splash-page.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/tag-archive.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/terms.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/year-archive.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pets/lhasa-apso.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pets/tabby.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_portfolio/baz-boom-identity.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_portfolio/fizz-bang-identity.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_portfolio/foo-bar-website.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_portfolio/ginger-gulp-identity.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-05-15-edge-case-nested-and-mixed-lists.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-06-01-edge-case-many-tags.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-07-02-edge-case-many-categories.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-08-06-edge-case-no-body-content.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-09-05-edge-case-no-yaml-title.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-10-05-edge-case-title-should-not-overflow-the-content-area.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-10-05-edge-case-very-long-title.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-01-07-post-modified.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-01-07-post-standard.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-01-08-post-chat.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-02-05-post-notice.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-02-05-post-quote.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-03-07-post-link.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-06-02-post-video-youtube.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-08-05-post-header-image-og-override.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-08-05-post-header-overlay-image-og-override.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-08-05-post-image-linked.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-08-05-post-image-standard.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-08-05-post-teaser-image-og-override.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-08-06-post-image-linked-caption.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-08-07-post-image-caption.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-09-09-post-gallery.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-09-10-post-twitter-embeds.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-10-25-post-future-date.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-comments-disabled.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-comments.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-read-time-disabled.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-read-time.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-related-posts-disabled.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-related-posts.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-sharing-disabled.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-sharing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-03-layout-read-time-comments-sharing-related-posts-disabled.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-03-layout-table-of-contents-post.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-14-layout-code-excerpt-generated.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-14-layout-excerpt-defined.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-14-layout-excerpt-generated.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-author-override.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-author-sidebar-disabled.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-image-external.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-image-horizontal.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-image-text-readability.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-image-vertical.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-overlay-color.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-overlay-image.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-more-tag.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-sidebar-custom.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-sidebar-nav-list.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-05-22-markup-text-readability-wide-page.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-05-22-markup-text-readability.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-01-05-markup-title-with-markup.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-01-05-markup-title-with-special-characters.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-01-09-markup-text-alignment.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-01-10-markup-image-alignment.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-01-11-markup-html-tags-and-formatting.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-05-22-markup-more-images.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-08-16-markup-syntax-highlighting.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2016-02-24-welcome-to-jekyll.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2017-01-23-layout-header-video.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2017-11-28-post-exclude-search.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_recipes/chocolate-chip-cookies.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_recipes/oatmeal-cookies.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_recipes/peanut-butter-cookies.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/3953273590_704e3899d5_m.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/500x300.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/bio-photo-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/bio-photo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/facebook-share-example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/foo-bar-identity-th.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/foo-bar-identity.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/image-alignment-1200x4002.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/image-alignment-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/image-alignment-300x200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/image-alignment-580x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/markup-syntax-highlighting-teaser.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-archive-grid-view-example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-author-profile-reddit-color.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-author-profile-reddit-gs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-author-sidebar-example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-breadcrumbs-example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-browser-mockups.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-bundle-install.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-custom-sidebar-example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-custom-sidebar-nav.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-customizable-feature.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-free-feature.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-gh-pages.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-github-copy-repo-url.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-github-edit-config.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-header-overlay-black-filter.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-header-overlay-red-filter.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-home-page-feature.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-home-post-pagination-example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-archive-taxonomy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-archive.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-examples.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-single-header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-single-meta.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-single.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-splash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-paragraph-indent-example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-portfolio-collection-example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-priority-plus-masthead.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-read-time-example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-responsive-feature.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-single-header-example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-single-header-overlay-example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-single-header-overlay-fill-example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-social-share-links-default.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-social-share-links-reddit-color.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-social-share-links-reddit-gs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-staticman-pr-webhook.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-susy-grid-overlay.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-teaser-images-example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-theme-fork-repo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-theme-post-600.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-theme-post-750.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-toc-helper-example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-twitter-card-summary-image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-twitter-card-summary-large.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-ui-text-labels.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/page-header-image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/page-header-og-image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/page-header-overlay-image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/page-header-teaser.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/paragraph-indent.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/paragraph-no-indent.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/safari-pinned-tab.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-1-th.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-2-th.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-3-th.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-4-th.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <ignored path="ceresearch.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -212,7 +25,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-8">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -251,14 +64,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01-quick-start-guide.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="01-quick-start-guide.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/_docs/01-quick-start-guide.md">
           <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="-1404">
+              <first_editor relative-caret-position="0">
                 <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
@@ -267,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="59" column="58" selection-start-line="59" selection-start-column="58" selection-end-line="59" selection-end-column="58" />
+            <state relative-caret-position="-214">
+              <caret line="135" column="41" selection-start-line="135" selection-start-column="41" selection-end-line="135" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -506,9 +319,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1368" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -551,14 +364,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="59" column="58" selection-start-line="59" selection-start-column="58" selection-end-line="59" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/screenshot-layouts.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -571,7 +376,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-8">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -611,11 +416,19 @@
       </provider>
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="-1404">
+          <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-214">
+          <caret line="135" column="41" selection-start-line="135" selection-start-column="41" selection-end-line="135" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
