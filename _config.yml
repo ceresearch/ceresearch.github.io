@@ -100,7 +100,7 @@ analytics:
 author:
   name             : "CEResearch"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "We are Turkey based computer engineering research group. Our team members are generally researchers and academicians."
+  bio              : "We are a Turkey based computer engineering research group. Our team members are generally researchers and academicians."
   location         : "İstanbul, Turkey"
   email            : #
   uri              :
@@ -123,7 +123,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
