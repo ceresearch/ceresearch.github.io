@@ -97,7 +97,37 @@ analytics:
 
 
 # Site Author
-author: /_data/authors.yml
+author:
+  name             : "CEResearch"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "We are Turkey based computer engineering research group. Our team members are generally researchers and academicians."
+  location         : "İstanbul, Turkey"
+  email            : #
+  uri              :
+  home             : "https://ceresearch.github.io"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "ceresearch"
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 # Reading Files
 include:
