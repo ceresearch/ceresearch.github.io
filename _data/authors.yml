@@ -37,7 +37,7 @@ Doğukan Aksu:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research Asistant"
   location         : "İstanbul University"
-  email            :
+  email            : "d.aksu@istanbul.edu.tr"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
